@@ -10,7 +10,7 @@ Aucun personnage ni univers existant n'est écrit dans le kit : il fait ce que l
 ## Installation (Windows)
 
 ```
-git clone https://github.com/<compte>/roforge-kit.git
+git clone https://github.com/adamryanfr-svg/roforge-kit.git
 cd roforge-kit
 powershell -ExecutionPolicy Bypass -File installer.ps1
 ```
